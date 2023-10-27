@@ -1,0 +1,35 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Fri, 27 Oct 2023 22:30:39 at https://cruchebois.000webhostapp.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://cruchebois.000webhostapp.com/ -O "/home/g0dzila/websites/cruchebois" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:31:28	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cruchebois.000webhostapp.com/single-news.html (from https://cruchebois.000webhostapp.com/)
+22:31:52	Error: 	"Not Found" (404) at link https://cruchebois.000webhostapp.com/services.html (from https://cruchebois.000webhostapp.com/)
+22:32:25	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cruchebois.000webhostapp.com/assets/bootstrap/css/bootstrap.min.css (from https://cruchebois.000webhostapp.com/)
+22:32:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cruchebois.000webhostapp.com/assets/img/avaters/avatar2.png (from https://cruchebois.000webhostapp.com/)
+22:32:43	Warning: 	HTML file (20600 bytes) retransferred due to lack of cache: https://cruchebois.000webhostapp.com/services.html
+22:32:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cruchebois.000webhostapp.com/services.html (from https://cruchebois.000webhostapp.com/)
+22:32:44	Warning: 	HTML file (20600 bytes) retransferred due to lack of cache: https://cruchebois.000webhostapp.com/services.html
+22:32:44	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cruchebois.000webhostapp.com/assets/js/jquery.countdown.js (from https://cruchebois.000webhostapp.com/)
+22:32:45	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cruchebois.000webhostapp.com/assets/js/form-validate.js (from https://cruchebois.000webhostapp.com/contact.html)
+22:32:46	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cruchebois.000webhostapp.com/assets/img/products/product-img-8.jpeg (from https://cruchebois.000webhostapp.com/shop.html)
+22:32:47	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cruchebois.000webhostapp.com/assets/img/products/product-img-13.jpg (from https://cruchebois.000webhostapp.com/shop.html)
+22:32:48	Warning: 	File not parsed, looks like binary: https://cruchebois.000webhostapp.com/assets/webfonts/fa-brands-400.woff2
+22:32:48	Warning: 	File not parsed, looks like binary: https://cruchebois.000webhostapp.com/assets/webfonts/fa-regular-400.woff2
+22:32:48	Warning: 	File not parsed, looks like binary: https://cruchebois.000webhostapp.com/assets/webfonts/fa-solid-900.woff2
+22:32:48	Error: 	"Not Found" (404) at link https://cruchebois.000webhostapp.com/assets/css/owl.video.play.png (from https://cruchebois.000webhostapp.com/assets/css/owl.carousel.css)
+22:32:48	Error: 	"Not Found" (404) at link https://cruchebois.000webhostapp.com/assets/img/hero-bg.jpg (from https://cruchebois.000webhostapp.com/assets/css/main.css)
+22:32:48	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cruchebois.000webhostapp.com/assets/img/background1.jpg (from https://cruchebois.000webhostapp.com/assets/css/main.css)
+22:32:49	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cruchebois.000webhostapp.com/assets/img/latest-news/news-bg-2.jpg (from https://cruchebois.000webhostapp.com/assets/css/main.css)
+22:32:52	Error: 	"Not Found" (404) at link https://cruchebois.000webhostapp.com/assets/img/latest-news/news-bg-4.jpg (from https://cruchebois.000webhostapp.com/assets/css/main.css)
+22:32:52	Error: 	"Not Found" (404) at link https://cruchebois.000webhostapp.com/assets/img/latest-news/news-bg-5.jpg (from https://cruchebois.000webhostapp.com/assets/css/main.css)
+22:32:52	Error: 	"Not Found" (404) at link https://cruchebois.000webhostapp.com/assets/img/latest-news/news-bg-6.jpg (from https://cruchebois.000webhostapp.com/assets/css/main.css)
+22:32:52	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cruchebois.000webhostapp.com/assets/img/team/team-1.jpg (from https://cruchebois.000webhostapp.com/assets/css/main.css)
+22:32:54	Error: 	"Not Found" (404) at link https://cruchebois.000webhostapp.com/assets/img/team/team-4.jpg (from https://cruchebois.000webhostapp.com/assets/css/main.css)
+22:32:54	Error: 	"Not Found" (404) at link https://cruchebois.000webhostapp.com/services.html (from https://cruchebois.000webhostapp.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 15 seconds : 119 links scanned, 99 files written (22135951 bytes overall) [20653164 bytes received at 152986 bytes/sec], 3413121 bytes transferred using HTTP compression in 44 files, ratio 39%, 7.6 requests per connection
+(8 errors, 16 warnings, 0 messages)
